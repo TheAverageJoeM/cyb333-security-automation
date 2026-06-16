@@ -1,0 +1,6 @@
+event_id,description,count,timestamp
+4625,Failed Logon Attempt,0,2026-06-16 16:23:52
+4624,Successful Logon,0,2026-06-16 16:23:53
+4720,New User Account Created,0,2026-06-16 16:23:53
+4104,PowerShell Script Activity,0,2026-06-16 16:23:54
+7045,New Service Installed,0,2026-06-16 16:23:54
